@@ -16,8 +16,8 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Current Project:** [TapOn-original](https://github.com/RishafH/TapOn-original) – a comprehensive solution for handyman services and tool rentals.
-- 🌱 **Currently Learning:** Advanced Flutter animations, improving backend efficiency with Node.js.
+- 🔭 **Current Project:** [Pegas-Go-Sales](https://github.com/RishafH/PegasGoSales) – a comprehensive solution for sales representatives for handle thier services.
+- 🌱 **Currently Learning:** Advanced Flutter animations, improving backend efficiency with firebase.
 - ⚡ **Fun Fact:** I love blending tech with creativity and finding innovative solutions!
 
 ---
